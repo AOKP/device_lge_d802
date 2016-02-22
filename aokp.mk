@@ -1,4 +1,4 @@
-# Inherit some common CM stuff.
+# Inherit some common AOKP stuff.
 $(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
 
 # Enhanced NFC
