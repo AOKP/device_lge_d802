@@ -1,6 +1,7 @@
 [
- {
-   "repository": "device_lge_g2-common",
-   "target_path": "device/lge/g2-common"
- }
+  {
+    "remote": "aokp",
+    "repository": "device_lge_g2-common",
+    "target_path": "device/lge/g2-common"
+  }
 ]
